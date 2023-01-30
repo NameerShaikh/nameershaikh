@@ -1,5 +1,8 @@
 ### Hi there 👋
-#### I'm A NERD with a geeky attitude.
+#### I'm a tech lover.
+#### I'm open to learn.
+#### I'm a fast learner.
+### Growth in progress!!
 <!--
 **NameerShaikh/nameershaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
